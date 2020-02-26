@@ -7,7 +7,22 @@
     background-repeat: no-repeat;
     min-height: 500px;
 }
+.head1 button{
+    background-image: linear-gradient(45deg,lightSalmon,tomato);
+    border: none;
 
+}
+.head2 button{
+    background-image: linear-gradient(45deg,lightSalmon,tomato);
+    border: none;
+
+}
+.head1 a{
+    color: white;
+}
+.head2 a{
+    color: white;
+}
 .head2 {
     margin-top: 80px;
     background-image: url("img/dream-bg.png");
